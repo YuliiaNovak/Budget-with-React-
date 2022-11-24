@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Budget-with-React-/static/css/main.11379abf.css",
+    "main.js": "/Budget-with-React-/static/js/main.03061029.js",
+    "index.html": "/Budget-with-React-/index.html",
+    "main.11379abf.css.map": "/Budget-with-React-/static/css/main.11379abf.css.map",
+    "main.03061029.js.map": "/Budget-with-React-/static/js/main.03061029.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11379abf.css",
+    "static/js/main.03061029.js"
+  ]
+}
