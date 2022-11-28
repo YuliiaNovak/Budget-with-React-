@@ -7,7 +7,6 @@ function NewExpense(props) {
    const [openForm, setOpenForm] = useState(false);
 
    const openFormHandler = () => {
-      console.log("here");
       setOpenForm(!openForm);
    };
 
